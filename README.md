@@ -5,8 +5,8 @@ The project is a linear regression model done in R language.
 pdf file is the presentation used for said project
 
 Project made in colaboration with:
-Samuel Tjahyono
-Marko Chindranata
-Teresa Yubilea
-Nazhira Ghaisani
+Samuel Tjahyono,
+Marko Chindranata,
+Teresa Yubilea, and
+Nazhira Ghaisani.
 
